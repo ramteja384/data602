@@ -1,0 +1,8 @@
+hw: 75
+- did not properly combine the num and cat pipelines into one pipeline
+- improper use of the model - linearregression
+- improper graph
+- ridge not applied to the complete pipeline
+
+lab: 80
+improper implementation
