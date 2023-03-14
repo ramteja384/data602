@@ -1,0 +1,6 @@
+hw:
+marks: 100
+
+lab:
+marks: 90
+remarks: please provide proper explanations
