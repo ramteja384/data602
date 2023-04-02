@@ -1,0 +1,5 @@
+hw: 85
+the last three questions were not answered properly. 
+use markdown cells to explain your findings 
+
+lab: 95
