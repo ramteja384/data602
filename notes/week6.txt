@@ -1,0 +1,4 @@
+hw:80
+- haven't completed the assignment
+lab:90
+- did not implement grid search and missing comparision
